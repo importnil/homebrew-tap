@@ -1,6 +1,6 @@
 cask "fluent" do
-  version "2.3.6"
-  sha256 "40b20d053b7c6117ee0c776055ca24f62789eb9090b35a19f690509e77751fc4"
+  version "2.3.7"
+  sha256 "ed19640ad9114009d5889ea9c5279e09aab899fafc8b29222189ebaf41f58e94"
 
   url "https://fluentmac.app/download/Fluent-#{version}.dmg"
   name "Fluent"
